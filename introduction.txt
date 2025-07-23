@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+I am willington and this is a readme file that i have created because of pathway program and am working to use it all the way for my graduation
+in alx pathway so that i don get left behind.
